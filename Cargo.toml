@@ -1,7 +1,10 @@
 [package]
-name = "ddg"
+name = "ddg_cli"
+description = "A command that opens a given query in DuckDuckGo Lite in browser"
 version = "0.1.0"
 authors = ["Michał Sidor (Michcioperz) <public+git@meekchopp.es>"]
+repository = "https://github.com/michcioperz/ddg"
+license = "MIT"
 
 [dependencies]
 url = "1.6.0"
